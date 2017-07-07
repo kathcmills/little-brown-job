@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Little Brown Jobs</string>
+    <string name="title_activity_maps">Bird Sightings</string>
+    <string name="photo">Photo</string>
+    <string name="save">Save Sighting</string>
+    <string name="description">Description</string>
+    <string name="description_prompt">Size, colour, noises, behaviour, number, other observations</string>
+    <string name="date_sighting">Date of Sighting</string>
+    <string name="location">Location</string>
+</resources>

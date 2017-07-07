@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "606389539519",
+    "firebase_url": "https://little-brown-jobs.firebaseio.com",
+    "project_id": "little-brown-jobs",
+    "storage_bucket": "little-brown-jobs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606389539519:android:cf2b6472d7fe4272",
+        "android_client_info": {
+          "package_name": "ca.bcit.cst.kathleen.littlebrownjobs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606389539519-960tfcd9j4fg42u9htep26l7ppqts6b7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ca.bcit.cst.kathleen.littlebrownjobs",
+            "certificate_hash": "c93be667478d1e0261d34ca7ffdb412c18551cc6"
+          }
+        },
+        {
+          "client_id": "606389539519-p5js74eumqvd0vgi0d1q2641m35lshnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABE7g_NTv8VFpuZxHdZBhTDqXLo3JTku4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "606389539519-p5js74eumqvd0vgi0d1q2641m35lshnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
